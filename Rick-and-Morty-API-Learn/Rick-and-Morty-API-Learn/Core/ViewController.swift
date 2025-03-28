@@ -1,5 +1,5 @@
 //
-//  ViewController.swiftt
+//  ViewController.swift
 //  Rick-and-Morty-API-Learn
 //
 //  Created by Mehmet Tuna Arıkaya on 23.03.2025.
