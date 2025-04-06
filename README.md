@@ -8,7 +8,7 @@ This projectt integrates the **Rick and Morty API** into a **UIKit** application
 - **MVVM** architecture for better separation of concerns
 - Asynchronous API calls with **URLSession**
 
-## Technologies Used
+## Technologies Usedd
 - **UIKit**
 - **MVVM**
 - **SnapKit**
