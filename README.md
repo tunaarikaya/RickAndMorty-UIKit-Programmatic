@@ -12,4 +12,4 @@ This projectt integrates the **Rick and Morty API** into a **UIKit** application
 - **UIKit**
 - **MVVM**
 - **SnapKit**
-- **Alamofire**
+- **Alamofire***
